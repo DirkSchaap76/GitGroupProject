@@ -11,3 +11,12 @@ public class Start {
 	}
 
 }
+
+
+
+
+class Pizza{
+	int diameter = 5;
+	int aantalIngredienten = 3;
+
+}
