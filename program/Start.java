@@ -8,3 +8,11 @@ public class Start {
 	}
 
 }
+
+
+
+
+class Pizza{
+	int diameter = 5;
+
+}
